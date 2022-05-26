@@ -23,8 +23,8 @@ If divided by zero,the program should print "𝑑ivided by zero".\
 (Don’t worry about overflow or underflow.)
 >
 **Input**\
-Every input file has three lines. The first line contains an integer 𝐴𝐴, the second\
-line contains an integer 𝑜𝑜𝑜𝑜, the third line contains an integer 𝐵𝐵, which represet the\ 
+Every input file has three lines. The first line contains an integer 𝐴, the second\
+line contains an integer 𝑜p, the third line contains an integer 𝐵, which represent the\ 
 first operand, the operation the calculator is going to do, and the second operand.\
 **Output**\
 The output should contain only one integer, that is the result of the input equation.
