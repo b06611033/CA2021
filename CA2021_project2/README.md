@@ -1,6 +1,7 @@
 # Pipelined CPU + L1 Data Cache
 ## Description
-Pipelined CPU with\
+**Pipelined CPU with:**
+>
 **Off-chip Data Memory**\
 • Size: 16KB\
 • Data width: 32 Bytes\
