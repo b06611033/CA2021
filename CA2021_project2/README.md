@@ -13,7 +13,7 @@ access)\
 • Cache line size: 32 Bytes\
 • Write hit policy: write back\
 • Write miss policy: write allocate\
-• offset: 5 bits, index: 4 bits, tag: 23 bits\
+• offset: 5 bits, index: 4 bits, tag: 23 bits
 ## System Architecture
 ![k](https://user-images.githubusercontent.com/52776608/170442020-e13b4c70-9b9e-478f-8029-42739c517591.png)
 ## Data Path
