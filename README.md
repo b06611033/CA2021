@@ -1,2 +1,2 @@
 # Computer_Architecture
-Assignments of Computer Architecture course.
+Assignments of NTU CSIE Computer Architecture course.
